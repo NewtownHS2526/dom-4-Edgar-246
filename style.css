@@ -3,14 +3,20 @@
     font-weight: 700;
   }
   
-  button#apple {
+  button#popcorn {
     background-color: #ba1a62;
   }
-  button#banana {
-    background-color: #c8cd7d;
+  button#soda {
+    background-color: #db1a0c;
   }
-  button#mango {
+  button#candy {
     background-color: #e4633b;
+  }
+  button#nachos {
+    background-color: rgb(252, 181, 4);
+  }
+  button#icecream {
+    background-color: rgb(252, 218, 176);
   }
   
   #shopping-cart {
